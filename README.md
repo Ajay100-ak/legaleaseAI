@@ -1,0 +1,2 @@
+# legaleaseAI
+AI-powered legal document generator
